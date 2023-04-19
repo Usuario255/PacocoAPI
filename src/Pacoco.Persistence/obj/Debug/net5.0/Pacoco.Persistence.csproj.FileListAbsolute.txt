@@ -13,3 +13,6 @@ C:\Users\Vinicius\Desktop\Paçoco\Back\src\Pacoco.persistence\obj\Debug\net5.0\P
 C:\Users\Vinicius\Desktop\Paçoco\Back\src\Pacoco.persistence\bin\Debug\net5.0\Pacoco.Domain.dll
 C:\Users\Vinicius\Desktop\Paçoco\Back\src\Pacoco.persistence\bin\Debug\net5.0\Pacoco.Domain.pdb
 C:\Users\Vinicius\Desktop\Paçoco\Back\src\Pacoco.persistence\obj\Debug\net5.0\Pacoco.Persistence.csproj.CopyComplete
+C:\Users\Vinicius\Desktop\Paçoco\Back\src\Pacoco.Persistence\bin\Debug\net5.0\Pacoco.Persistence.runtimeconfig.json
+C:\Users\Vinicius\Desktop\Paçoco\Back\src\Pacoco.Persistence\bin\Debug\net5.0\Pacoco.Persistence.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\Paçoco\Back\src\Pacoco.Persistence\obj\Debug\net5.0\Pacoco.Persistence.genruntimeconfig.cache
