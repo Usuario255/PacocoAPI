@@ -1,6 +1,6 @@
 using System.Collections.Generic;
-using Pacoco.Domain;
-namespace Pacoco.Domain.Evento
+
+namespace Pacoco.Domain
 {
     public class Evento
     {
@@ -15,5 +15,6 @@ namespace Pacoco.Domain.Evento
         public string Telefone { get; set; }
         public IEnumerable<Lote> Lotes { get; set; }
         public IEnumerable<RedeSocial> RedesSociais { get; set; }
+        public IEnumerable<PalestranteEvento> PalestrantesEventos { get; set; }
     }
 }

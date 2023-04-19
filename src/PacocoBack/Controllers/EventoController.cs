@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Back.src.Pacoco.Data.DataContext;
-using Pacoco.Domain.Evento;
+using Pacoco.Domain;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
@@ -24,7 +24,7 @@ namespace PacocoBack.Controllers
         [HttpGet]
         public IEnumerable<Evento> Get()
         {
-            return _context.Eventos;
+            return (IEnumerable<Evento>)_context.Eventos;
         }
         [HttpGet("{id}")]
         public IEnumerable<Evento> GetPorId(int id)

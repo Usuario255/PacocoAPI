@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using Pacoco.Domain.Evento;
+using Pacoco.Domain;
 
 namespace Back.src.Pacoco.Data.DataContext
 {
