@@ -1,0 +1,17 @@
+C:\Users\Vinicius\Desktop\Paçoco\Back\src\Pacoco.Application\bin\Debug\net5.0\Pacoco.Application.deps.json
+C:\Users\Vinicius\Desktop\Paçoco\Back\src\Pacoco.Application\bin\Debug\net5.0\Pacoco.Application.dll
+C:\Users\Vinicius\Desktop\Paçoco\Back\src\Pacoco.Application\bin\Debug\net5.0\ref\Pacoco.Application.dll
+C:\Users\Vinicius\Desktop\Paçoco\Back\src\Pacoco.Application\bin\Debug\net5.0\Pacoco.Application.pdb
+C:\Users\Vinicius\Desktop\Paçoco\Back\src\Pacoco.Application\obj\Debug\net5.0\Pacoco.Application.csproj.AssemblyReference.cache
+C:\Users\Vinicius\Desktop\Paçoco\Back\src\Pacoco.Application\obj\Debug\net5.0\Pacoco.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\Paçoco\Back\src\Pacoco.Application\obj\Debug\net5.0\Pacoco.Application.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\Paçoco\Back\src\Pacoco.Application\obj\Debug\net5.0\Pacoco.Application.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\Paçoco\Back\src\Pacoco.Application\obj\Debug\net5.0\Pacoco.Application.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\Paçoco\Back\src\Pacoco.Application\obj\Debug\net5.0\Pacoco.Application.dll
+C:\Users\Vinicius\Desktop\Paçoco\Back\src\Pacoco.Application\obj\Debug\net5.0\ref\Pacoco.Application.dll
+C:\Users\Vinicius\Desktop\Paçoco\Back\src\Pacoco.Application\obj\Debug\net5.0\Pacoco.Application.pdb
+C:\Users\Vinicius\Desktop\Paçoco\Back\src\Pacoco.Application\bin\Debug\net5.0\Pacoco.Domain.dll
+C:\Users\Vinicius\Desktop\Paçoco\Back\src\Pacoco.Application\bin\Debug\net5.0\Pacoco.Persistence.dll
+C:\Users\Vinicius\Desktop\Paçoco\Back\src\Pacoco.Application\bin\Debug\net5.0\Pacoco.Domain.pdb
+C:\Users\Vinicius\Desktop\Paçoco\Back\src\Pacoco.Application\bin\Debug\net5.0\Pacoco.Persistence.pdb
+C:\Users\Vinicius\Desktop\Paçoco\Back\src\Pacoco.Application\obj\Debug\net5.0\Pacoco.Application.csproj.CopyComplete

@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Pacoco.Application/1.0.0": {
+        "dependencies": {
+          "Pacoco.Domain": "1.0.0",
+          "Pacoco.Persistence": "1.0.0"
+        },
+        "runtime": {
+          "Pacoco.Application.dll": {}
+        }
+      },
+      "Pacoco.Domain/1.0.0": {
+        "runtime": {
+          "Pacoco.Domain.dll": {}
+        }
+      },
+      "Pacoco.Persistence/1.0.0": {
+        "dependencies": {
+          "Pacoco.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Pacoco.Persistence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pacoco.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pacoco.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pacoco.Persistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

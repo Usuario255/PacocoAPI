@@ -1,0 +1,12 @@
+C:\Users\Vinicius\Desktop\Paçoco\Back\src\Pacoco.Domain\bin\Debug\net5.0\Pacoco.Domain.deps.json
+C:\Users\Vinicius\Desktop\Paçoco\Back\src\Pacoco.Domain\bin\Debug\net5.0\Pacoco.Domain.dll
+C:\Users\Vinicius\Desktop\Paçoco\Back\src\Pacoco.Domain\bin\Debug\net5.0\ref\Pacoco.Domain.dll
+C:\Users\Vinicius\Desktop\Paçoco\Back\src\Pacoco.Domain\bin\Debug\net5.0\Pacoco.Domain.pdb
+C:\Users\Vinicius\Desktop\Paçoco\Back\src\Pacoco.Domain\obj\Debug\net5.0\Pacoco.Domain.csproj.AssemblyReference.cache
+C:\Users\Vinicius\Desktop\Paçoco\Back\src\Pacoco.Domain\obj\Debug\net5.0\Pacoco.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\Paçoco\Back\src\Pacoco.Domain\obj\Debug\net5.0\Pacoco.Domain.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\Paçoco\Back\src\Pacoco.Domain\obj\Debug\net5.0\Pacoco.Domain.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\Paçoco\Back\src\Pacoco.Domain\obj\Debug\net5.0\Pacoco.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\Paçoco\Back\src\Pacoco.Domain\obj\Debug\net5.0\Pacoco.Domain.dll
+C:\Users\Vinicius\Desktop\Paçoco\Back\src\Pacoco.Domain\obj\Debug\net5.0\ref\Pacoco.Domain.dll
+C:\Users\Vinicius\Desktop\Paçoco\Back\src\Pacoco.Domain\obj\Debug\net5.0\Pacoco.Domain.pdb
